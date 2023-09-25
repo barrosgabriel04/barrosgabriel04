@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriel
 Graduating in data science
 -----------------------------
 
-I am a student at [unipe](https://www.unipe.edu.br/), studying data sciencee [datascience]((https://www.unipe.edu.br/graduacao/ciencia-de-dados/)).
+I am a student at [unipe](https://www.unipe.edu.br/), studying data sciencee [datascience](https://www.unipe.edu.br/graduacao/ciencia-de-dados/).
 
 * 🌍  I'm based in Paraiba, Brazil
 * ✉️  You can contact me at [gabrielbarros6969@gmail.com](mailto:gabrielbarros6969@gmail.com)
