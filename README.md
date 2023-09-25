@@ -10,7 +10,7 @@ I am a student at [unipe](https://www.unipe.edu.br/), studying data sciencee [da
 * ✉️  You can contact me at [gabrielbarros6969@gmail.com](mailto:gabrielbarros6969@gmail.com)
 * 🧠  I'm learning python and Sql programming languages
 
-## My specialties:
+## Skills:
 
 ### Languages: 
 <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> 
